@@ -56,3 +56,6 @@ PostgreSQL ile çalışmak gerçekten heyecan vericiydi. Veritabanı işlemlerin
 - **Çalışan Silme**: `Delete` butonuyla çalışan bilgilerini silebilirsiniz.
 - **ID ile Arama**: Bir çalışanı ID’siyle aramak için `Get by ID` butonunu kullanabilirsiniz.
 
+## Ekran Görüntüsü
+![image](https://github.com/user-attachments/assets/d8a9edb1-7ef9-45c0-8913-652d957d099e)
+
